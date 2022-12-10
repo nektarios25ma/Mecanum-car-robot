@@ -6,6 +6,7 @@ link video: https://www.youtube.com/watch?v=noqBUEgyQ8A
 link wiki: https://en.wikipedia.org/wiki/Mecanum_wheel
 Η σχεδίαση του είναι τέτοια ώστε να εξοικονομεί ενέργεια και να διευκολύνει την κινητικότητα του οχήματος σε μικρούς χώρους .
 Το project μας θα είναι ένα τέτοιο ρομποτάκι που θα ελέγχεται απο το κινητό μας.
+
 ΥΛΙΚΑ:
 Robot Car Chassis Kit=€32,24+€73,16
 
