@@ -10,7 +10,7 @@ link wiki: https://en.wikipedia.org/wiki/Mecanum_wheel
 Το project μας θα είναι ένα τέτοιο ρομποτάκι που θα ελέγχεται απο το κινητό μας.
 
 Η εφαρμογή ANDROID ΦΤΙΑΧΤΗΚΕ ΑΠΟ ΤΑ ΠΑΙΔΙΑ στο mit app inventor και κοινοποιήται στο github ως RobotCarController_2  .
-To project παρουσιάστηκε στην γτορτή φυσικών επιστημών στα χανιά 7/5/23 και εδώ ένα βίντεο απο τα τοπικά μέσα ενημέρωσης όπου το δείχνει ανάμεσα στα 3 που προλάβαμε να κατεβάσουμε από το  λύκειο Σούδας: https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FJ4KTN73r3Bc%3Ffbclid%3DIwAR0YopU4K4hsXZOZvXMf0OmGJWdn52ZXE7XchZLaHyiHn_jTpAqAf4r9BEw&h=AT2xt8XWwk4iZVaCniz8awCXYXgT1CEZs-1Yh1_PKLqsx2RbYb3LYkmzRnaKnfT61EUjlriBDkC_wLmWBK2P1Vp88Yo-cL5gg0DXqyvfue_EfFXpp5U1jFuQmElLw9s3nq6efz_A28Gj_6SOP18dhA
+To project παρουσιάστηκε στην γτορτή φυσικών επιστημών στα χανιά 7/5/23 και εδώ ένα βίντεο απο τα τοπικά μέσα ενημέρωσης όπου το δείχνει ανάμεσα στα 3 που προλάβαμε να κατεβάσουμε από το  λύκειο Σούδας: https://www.youtube.com/watch?v=J4KTN73r3Bc
 
 ΥΛΙΚΑ:
 Robot Car Chassis Kit=€32,24+€73,16
