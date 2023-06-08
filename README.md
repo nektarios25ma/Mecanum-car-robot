@@ -11,7 +11,7 @@ link wiki: https://en.wikipedia.org/wiki/Mecanum_wheel
 Το project μας θα είναι ένα τέτοιο ρομποτάκι που θα ελέγχεται απο το κινητό μας.
 
 Η εφαρμογή ANDROID ΦΤΙΑΧΤΗΚΕ ΑΠΟ ΤΑ ΠΑΙΔΙΑ στο mit app inventor και κοινοποιήται στο github ως RobotCarController_3  .
-To project παρουσιάστηκε στην γτορτή φυσικών επιστημών στα χανιά 7/5/23 και εδώ ένα βίντεο απο τα τοπικά μέσα ενημέρωσης όπου το δείχνει ανάμεσα στα 3 που προλάβαμε να κατεβάσουμε από το  λύκειο Σούδας: https://www.youtube.com/watch?v=J4KTN73r3Bc
+To project παρουσιάστηκε στην γιορτή φυσικών επιστημών στα χανιά 7/5/23 και εδώ ένα βίντεο απο τα τοπικά μέσα ενημέρωσης όπου το δείχνει ανάμεσα στα 3 που προλάβαμε να κατεβάσουμε από το  λύκειο Σούδας: https://www.youtube.com/watch?v=J4KTN73r3Bc
 
 VIDEO ΕΞΗΓΗΣΗ ΕΡΓΟΥ LINK: https://drive.google.com/file/d/1vw4gP-sy7zEG8do6lrLYX8nzqIZm30ma/view?usp=sharing
 
