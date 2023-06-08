@@ -1,3 +1,5 @@
+//ΝΕΚΤΑΡΙΟΣ ΚΟΥΡΑΚΗΣ-ΚΑΘΗΓΗΤΗΣ 2022-23 ΓΕΛ ΛΥΚΕΙΟ ΣΟΥΔΑΣ
+//ΜΑΘΗΤΕΣ: ΔΗΜΗΤΡΑ,ΔΗΜΗΤΡΗΣ ΚΑΙ ΓΙΑΝΝΗΣ απο Α και Β λυκείου
 int echoPin = 9; // Echo Pin
 int trigPin = 10; // Trigger Pin
 int maximumRange = 200; // Maximum range needed
