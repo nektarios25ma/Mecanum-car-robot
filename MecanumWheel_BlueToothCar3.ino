@@ -1,7 +1,8 @@
-//Viral Science www.viralsciencecreativity.com www.youtube.com/c/viralscience
-//Arduino Bluetooth App Control Mecanum Wheel Robot
+//ΝΕΚΤΑΡΙΟΣ ΚΟΥΡΑΚΗΣ-ΚΑΘΗΓΗΤΗΣ 2022-23 ΓΕΛ ΛΥΚΕΙΟ ΣΟΥΔΑΣ
+//ΜΑΘΗΤΕΣ: ΔΗΜΗΤΡΑ,ΔΗΜΗΤΡΗΣ ΚΑΙ ΓΙΑΝΝΗΣ απο Α και Β λυκείου
 
-#include <AFMotor.h>   //Download and Install AFMotor.h Library
+#include <AFMotor.h>   //Download and Install AFMotor.h Library*
+//προαιρετικά μπορούμε να βάλουμε τις παρακάτω 4 γραμμές αντί αυτές από 11-14 αλλάζοντας τα KHz*
 //AF_DCMotor motor1(1, MOTOR12_1KHZ);
 //AF_DCMotor motor2(2, MOTOR12_1KHZ);
 //AF_DCMotor motor3(3, MOTOR34_1KHZ);
@@ -16,10 +17,7 @@ String readString;
 char c = 0;
 void setup() {
   Serial.begin(9600);
-//motor1.setSpeed(197);   //Set Motor Speed
-//motor2.setSpeed(243);
-//  motor3.setSpeed(254);
-//  motor4.setSpeed(253);  
+
 motor1.setSpeed(185);   //Set Motor Speed
 motor2.setSpeed(217);
 motor3.setSpeed(238);
@@ -27,8 +25,6 @@ motor4.setSpeed(253);
 
 
 }
-//must change LEFT<->RIGHT
-
 
 void loop() {
   while(Serial.available()){
