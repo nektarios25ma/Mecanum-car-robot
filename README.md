@@ -15,6 +15,10 @@ To project παρουσιάστηκε στην γιορτή φυσικών επ�
 
 VIDEO ΕΞΗΓΗΣΗ ΕΡΓΟΥ LINK: https://drive.google.com/file/d/1vw4gP-sy7zEG8do6lrLYX8nzqIZm30ma/view?usp=sharing
 
+Κώδικας-ino στο GITHUB με εξήγηση λειτουργιών στα σχόλια : ΜecanumWheel_BlueToothCar3.ino 
+
+Σχηματικό διάγραμμα στο GITHUB που δείχνει τις συνδέσεις στο κύκλωμα: mecanumCIRCUITconnection.png
+
 ΥΛΙΚΑ:
 Robot Car Chassis Kit=€32,24+€73,16
 
