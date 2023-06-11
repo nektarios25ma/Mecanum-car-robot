@@ -38,4 +38,4 @@ LINK: https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40p-10cm-
 https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40pcs-small-male-to-female-dupont-wires-cables-for-arduino-10cm-m-f/
 https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40pcs-m-m-dupont-wire-jumper-cables-30cm-extra-long/
 
-ΣΥΝΟΛΟ=110 €
+ΣΥΝΟΛΟ=130 €
