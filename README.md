@@ -26,13 +26,7 @@ LINK: https://www.hellasdigital.gr/go-create/robotics/car-robot/2-layer-60mm-mec
 
 KAI https://www.hellasdigital.gr/go-create/robotics/car-robot/multifunction-bluetooth-controlled-robot-smart-car-kits-el/
 
-ESP8266=€13,27 
 
-LINK: https://www.hellasdigital.gr/electronics/microcontrollers/firebeetle-esp8266-iot-microcontroller-supports-wi-fi-dfr0478/
-
-Beetle ESP32 Microcontroller=19€
-
-https://www.hellasdigital.gr/electronics/components/boards/beetle-esp32-microcontroller-dfr0575/
 
 L293D Motor Driver Shield=€4,49
 
@@ -44,4 +38,4 @@ LINK: https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40p-10cm-
 https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40pcs-small-male-to-female-dupont-wires-cables-for-arduino-10cm-m-f/
 https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40pcs-m-m-dupont-wire-jumper-cables-30cm-extra-long/
 
-ΣΥΝΟΛΟ=150 €
+ΣΥΝΟΛΟ=110 €
