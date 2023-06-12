@@ -14,6 +14,10 @@ link wiki: https://en.wikipedia.org/wiki/Mecanum_wheel
 
 Eλέγχεται από μια εφαρμογή ANDROID – MIT APP INVENTOR που τρέχει απο το κινητό μας και συνδέεται με το αυτοκινητάκι μας μέσω bluetooth.
 
+
+![image](https://github.com/nektarios25ma/Mecanum-car-robot/assets/44388822/11e838b8-38dc-41de-b615-3bc6267e3c87)
+
+
 Η εφαρμογή ANDROID ΦΤΙΑΧΤΗΚΕ ΑΠΟ ΤΑ ΠΑΙΔΙΑ στο mit app inventor και κοινοποιήται στο github ως RobotCarController_3  .
 To project παρουσιάστηκε στην γιορτή φυσικών επιστημών στα χανιά 7/5/23 και εδώ ένα βίντεο απο τα τοπικά μέσα ενημέρωσης όπου το δείχνει ανάμεσα στα 3 που προλάβαμε να κατεβάσουμε από το  λύκειο Σούδας: https://www.youtube.com/watch?v=J4KTN73r3Bc
 
