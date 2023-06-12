@@ -38,7 +38,7 @@ LINK: https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40p-10cm-
 https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40pcs-small-male-to-female-dupont-wires-cables-for-arduino-10cm-m-f/
 https://www.hellasdigital.gr/electronics/prototyping/cables-pins/40pcs-m-m-dupont-wire-jumper-cables-30cm-extra-long/
 
-Bluetooth 3.0 Module for Arduino - JDY-31
+Bluetooth 3.0 Module for Arduino - JDY-31=€4.80 
 LINK: https://grobotronics.com/bluetooth-3.0-module-for-arduino-jdy-31.html
 
 ΣΥΝΟΛΟ=130 €
