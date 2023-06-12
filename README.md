@@ -46,3 +46,13 @@ Bluetooth 3.0 Module for Arduino - JDY-31=€4.80
 LINK: https://grobotronics.com/bluetooth-3.0-module-for-arduino-jdy-31.html
 
 ΣΥΝΟΛΟ=130 €
+
+References/Sources:
+
+Α. WIKI:
+
+https://en.wikipedia.org/wiki/Mecanum_wheel
+
+B.PROJECT:
+
+https://www.viralsciencecreativity.com/post/arduino-mecanum-wheel-robot-car
