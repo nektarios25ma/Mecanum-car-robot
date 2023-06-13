@@ -1,6 +1,6 @@
 # Mecanum-car-robot
 
-Πλήρη εξήγηση στην ιστοσελίδα της ΕΛΛΑΚ : https://openedtech.ellak.gr/robotics2023/gel-soudasingenious-teammecanum-robot/
+Πλήρης εξήγηση στην ιστοσελίδα της ΕΛΛΑΚ : https://openedtech.ellak.gr/robotics2023/gel-soudasingenious-teammecanum-robot/
 
 Ο τροχός mecanum είναι μια σχεδίαση τροχού παντός κατεύθυνσης για ένα όχημα που κινείται προς οποιαδήποτε κατεύθυνση χωρίς κατ' ανάγκη να αλλάζει προσανατολισμό. 
 Μερικές φορές ονομάζεται σουηδικός τροχός ή τροχός Ilon από τον εφευρέτη του, Bengt Erland Ilon (1923–2008), [1] ο οποίος συνέλαβε την ιδέα 
